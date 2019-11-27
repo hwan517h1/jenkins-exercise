@@ -1,0 +1,6 @@
+com/spring/MyBatchConfigurer.class
+com/spring/MyTasklet1.class
+com/spring/MyTasklet2.class
+com/spring/MyRowMapper.class
+com/spring/Employee.class
+com/spring/DataSourceConfigurer.class
